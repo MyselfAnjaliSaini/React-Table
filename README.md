@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+**First of all use npm i command to get alll dependencies**
+npm i
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
