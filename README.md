@@ -1,8 +1,14 @@
 # Getting Started with Create React App
-Step 1  **First of all use npm i command to get alll dependencies**
+###Step 1  **First of all use npm i command to get alll dependencies**
+
 -- npm i
- Step 2 **do install bootstrap using command **
+
+ ###Step 2 **do install bootstrap using command **
 --npm i bootstrap
+
+### Step 3 Install axios
+ -- npm i axios
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
